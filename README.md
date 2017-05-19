@@ -1,10 +1,17 @@
 # Bachelorette Contestant Data
 
+Data in [cast.json](/cast.json)!
+
+Or use it via npm!
+```
+npm install bachelorette-data
+```
+
 # Example
 
 ```js
 const _ = require('lodash');
-const data = require('./cast.json');
+const data = require('bachelorette-data'); // or require('./cast.json')
 
 var first20ByAge = _(data)
   .filter(c => c.role == "Contestant")

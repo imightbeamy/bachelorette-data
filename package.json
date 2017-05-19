@@ -1,13 +1,17 @@
 {
-  "name": "bach-data",
+  "name": "bachelorette-data",
   "version": "1.0.0",
-  "description": "Data about bachelorette contestants.",
+  "description": "Data about bachelor/bachelorette contestants.",
   "main": "data.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amy Ciavolino",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imightbeamy/bachelorette-data.git"
+  },
   "devDependencies": {
     "lodash": "^4.17.4",
     "x-ray": "^2.3.2"

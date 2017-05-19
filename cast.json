@@ -1,0 +1,1462 @@
+[
+  {
+    "name": "Rachel Lindsay",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/rachel-lindsay",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018118/42861cb3b0c6834c730de443742367d6/104x104-Q90_42861cb3b0c6834c730de443742367d6.jpg",
+    "role": "Bachelorette",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018118/7bc25bee45e898db3b8ae3e6c8802366/320x180-Q90_7bc25bee45e898db3b8ae3e6c8802366.jpg",
+      "questions": []
+    }
+  },
+  {
+    "name": "Chris Harrison",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/chris-harrison",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/967481/208fc6a8f443b58ef0401c5af340df11/104x104-Q90_208fc6a8f443b58ef0401c5af340df11.jpg",
+    "role": "Host",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/967481/2cc0a1e03deb2abcd754f625e79db13d/320x180-Q90_2cc0a1e03deb2abcd754f625e79db13d.jpg",
+      "questions": []
+    }
+  },
+  {
+    "bio": {
+      "questions": []
+    }
+  },
+  {
+    "name": "Adam",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/adam-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018819/1012c44c50bf901cc9a037edda24abf3/104x104-Q90_1012c44c50bf901cc9a037edda24abf3.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018819/2d3df2482b8912beaeb8a215200831c8/320x180-Q90_2d3df2482b8912beaeb8a215200831c8.jpg",
+      "age": "27",
+      "occupation": "Real Estate Agent",
+      "height": "6'2\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "What are your top 3 favorite movies? ",
+          "answer": "Transformers, The Pursuit of Happyness, The Wolf of Wall Street"
+        },
+        {
+          "question": "What is a typical Saturday night like for you?",
+          "answer": "Well if it's not with my couch, then I would go out with some friends for dinner and go out to a bar or club for drinks, maybe late night tacos."
+        },
+        {
+          "question": "What is your most embarrassing moment?",
+          "answer": "When I told my mom I was going on The Bachelorette."
+        },
+        {
+          "question": "Do you have a serious fear of any kind of animal?",
+          "answer": "Snakes and spiders."
+        },
+        {
+          "question": "Who is your favorite actor and why?",
+          "answer": "Jennifer Lawrence because she is every girl's goal."
+        },
+        {
+          "question": "Do you consider yourself athletic?",
+          "answer": "Very! Collegiate letter winner in football."
+        },
+        {
+          "question": "What is the most romantic present you have ever received and why?",
+          "answer": "Threesome. It was my birthday."
+        },
+        {
+          "question": "Do you consider yourself a good cook?",
+          "answer": "Yes! I used to cook four-course meals in college and charge people. LOL"
+        },
+        {
+          "question": "What is your ideal mate's personality like?",
+          "answer": "Driven and passionate about what she does."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alex",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/alex-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018833/5cec7ce736eb7e49a3c926de02dfe818/104x104-Q90_5cec7ce736eb7e49a3c926de02dfe818.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018833/82d4e555dad57f61168c92e61f9d977d/320x180-Q90_82d4e555dad57f61168c92e61f9d977d.jpg",
+      "age": "28",
+      "occupation": "Information Systems Supervisor",
+      "height": "6'2\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "Would you describe yourself as \"the party-starter,\" \"the wingman\" or \"the laid back one?\" ",
+          "answer": "\" The wingman"
+        },
+        {
+          "question": "What are your 3 worst attributes?",
+          "answer": "Selfish, unemotional, unapologetic"
+        },
+        {
+          "question": "What is the most outrageous thing you have ever done?",
+          "answer": "Ate a live salamander"
+        },
+        {
+          "question": "Who are your top 3 favorite groups/artists & why?",
+          "answer": "Coldplay, Beatles … Can't really think of a third one. Music isn't a big part of my life."
+        },
+        {
+          "question": "Who is your favorite artist?",
+          "answer": "The Rock (Dwayne Johnson)"
+        },
+        {
+          "question": "What is the most romantic present you have ever given?",
+          "answer": "A car. I like giving practical gifts."
+        },
+        {
+          "question": "Do you consider yourself romantic and why?",
+          "answer": "Yes. I like to treat my significant other like a queen."
+        },
+        {
+          "question": "Do you prefer a woman who wants to be pursued or a woman who pursues you and why?",
+          "answer": "I like a woman that pursues me. I like an aggressive, go-getter type."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anthony",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/anthony-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018823/81d464ea5bbd2cefdd6df0ae3d8106fe/104x104-Q90_81d464ea5bbd2cefdd6df0ae3d8106fe.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018823/feb7431781e49ebad3462e884f4a079b/320x180-Q90_feb7431781e49ebad3462e884f4a079b.jpg",
+      "age": "26",
+      "occupation": "Education Software Manager",
+      "height": "6'3\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "Would you describe yourself more as \"the party starter,\" \"the wingman\" or \"the laid back one?\"",
+          "answer": "\" I'm more of the laid back one that turns into the party starter as the night goes on."
+        },
+        {
+          "question": "What are your best attributes?",
+          "answer": "I'm reliable and self-sufficient, emotionally intelligent, and generally very positive."
+        },
+        {
+          "question": "What is the most outrageous thing you have ever done?",
+          "answer": "Taking a job to teach English in Indonesia with minimal preparation."
+        },
+        {
+          "question": "If you could be someone else for just one day, who would it be and why?",
+          "answer": "My mom. I wish I could see the world as she does to understand her better."
+        },
+        {
+          "question": "If you were stranded on a desert island, what would it be made of?",
+          "answer": "Probably those flesh-eating plants from Life of Pi."
+        },
+        {
+          "question": "What is your greatest achievement to date?",
+          "answer": "Getting a Fulbright Grant to teach in the Ivory Coast."
+        },
+        {
+          "question": "What are your top 3 favorite movies? ",
+          "answer": "The Iron Giant, Moonlight, The Matrix"
+        },
+        {
+          "question": "What is your favorite all-time book and why?",
+          "answer": "Tough. The most recent is The Wind-Up Bird Chronicle, by Haruki Murakami. It's like a dream I don't want to wake up from."
+        },
+        {
+          "question": "What's the wildest thing you've done in the bedroom?",
+          "answer": "I'll just say I have virtually no limits once that connection is there."
+        },
+        {
+          "question": "What is your ideal mate's personality like?",
+          "answer": "Curious. Able to laugh at silly things, but also hold her own in an intellectual conversation."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Blake E.",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/blake-e-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018840/564344f2ac7f8d84fbdd22e4b68b0794/104x104-Q90_564344f2ac7f8d84fbdd22e4b68b0794.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018840/5462da67c4079973a4b4a93691b92923/320x180-Q90_5462da67c4079973a4b4a93691b92923.jpg",
+      "age": "31",
+      "occupation": "Aspiring Drummer",
+      "height": "6'",
+      "tattoos": "I have \"LRLL\" (drum rudiment) and \"D\" (for the dog I rescued) on my left arm.",
+      "questions": [
+        {
+          "question": "What is the most outrageous thing you have ever done? ",
+          "answer": "Get engaged to a crazy girl."
+        },
+        {
+          "question": "What are your 3 worst attributes?",
+          "answer": "Sensitivity, procrastination, and patience."
+        },
+        {
+          "question": "What is your favorite flower?",
+          "answer": "Red roses, because I am a classic gentleman."
+        },
+        {
+          "question": "If you could watch any movie right now, what would it be, and why? ",
+          "answer": "The new 50 Shades of Grey movie because I love taboo sexy stuff."
+        },
+        {
+          "question": "What is your favorite memory from childhood?",
+          "answer": "Horseback riding camp."
+        },
+        {
+          "question": "What kind of music do you listen to most?",
+          "answer": "Anything with good drums!"
+        },
+        {
+          "question": "What's the closest you have ever come to being married? ",
+          "answer": "I was engaged for 48 hours."
+        },
+        {
+          "question": "What does your ideal mate look like?",
+          "answer": "I prefer fit and curvy, but I'm a sucker for a nice butt and a beautiful smile."
+        },
+        {
+          "question": "Who is the person you dislike most in the world and why?",
+          "answer": "Parking ticket people, because they don't have souls."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Blake K.",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/blake-k-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018845/18d69d137c76c68097efd89e95abe7bc/104x104-Q90_18d69d137c76c68097efd89e95abe7bc.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018845/f889ad3fd2881e71bed75f16c4469d84/320x180-Q90_f889ad3fd2881e71bed75f16c4469d84.jpg",
+      "age": "29",
+      "occupation": "U.S. Marine Veteran",
+      "height": "6'",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "If you could be someone else for just one day, who would it be and why?",
+          "answer": "Great smile, long and fit."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Brady",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/brady-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018850/919fc148d286becb6abae9eb7370d3a7/104x104-Q90_919fc148d286becb6abae9eb7370d3a7.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018850/f5873b9999e27b9262261c801bcc03d6/320x180-Q90_f5873b9999e27b9262261c801bcc03d6.jpg",
+      "age": "29",
+      "occupation": "Male Model",
+      "height": "6'2\"",
+      "tattoos": "No    What is the most outrageous thing you have ever done? Besides applying for The Bachelorette, probably moving to Milan on my own for two months.",
+      "questions": [
+        {
+          "question": "Tattoos: ",
+          "answer": "Besides applying for The Bachelorette, probably moving to Milan on my own for two months."
+        },
+        {
+          "question": "If you could be someone else for just one day, who would it be and why?",
+          "answer": "The '80s. They had a cool era and style. I couldn't go too primitive. I like my modern luxuries."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bryan",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/bryan-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018852/4f893250c6339fb061442af1b700c283/104x104-Q90_4f893250c6339fb061442af1b700c283.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018852/459fdcaa7a418f9b6ca896ae7fdd625e/320x180-Q90_459fdcaa7a418f9b6ca896ae7fdd625e.jpg",
+      "age": "37",
+      "occupation": "Chiropractor",
+      "height": "6'2\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "Would you describe yourself more as \"the party starter\", \"the wingman\" or \"the laid back one\"? ",
+          "answer": "Depends on how many drinks I've had, lol! In all honesty, I probably start kind of laid back and work my way up to \"party\" status at this point in my life."
+        },
+        {
+          "question": "What are your three best attributes? ",
+          "answer": "Affectionate/passionate, personable/charming/funny, kind/good heart"
+        },
+        {
+          "question": "Would you say you're more of a country or more of a city person?",
+          "answer": "City person for sure."
+        },
+        {
+          "question": "If you could be someone else just for one day, who would it be and why",
+          "answer": "Bill Gates, just because he's so selfless and charitable. I would want to feel the gratification of donating billions of dollars to help so many people around the world. It would be the best feeling."
+        },
+        {
+          "question": "What's your favorite flower?",
+          "answer": "Orchid"
+        },
+        {
+          "question": "What is your favorite television show and why?",
+          "answer": "Sports Center. I love sports and love talking sports with my friends, so I get most information from that show and sports talk radio. And believe it or not, The Bachelor/Bachelorette series. I'm fascinated by the interaction socially between a man and a woman in dating/relationship/marriage, etc."
+        },
+        {
+          "question": "Do you speak any languages other than English? If so, which one(s)? How did you learn them? ",
+          "answer": "Spanish. I've spoken Spanish since I was a child. Taught to me by my mom who speaks to me primarily in Spanish."
+        },
+        {
+          "question": "What's the most embarrassing style you've rocked?",
+          "answer": "JNCO Jeans!! Sooooo baggy lol. Skate or die, man!! I looked ridiculous!"
+        },
+        {
+          "question": "Do you plan on having kids someday? If yes, how many and why?",
+          "answer": "Yes, 2 -3 kids, preferably two boys, one girl. A boy needs a little brother and they both can protect their sister."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bryce",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/bryce-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018853/01018f03356eecc3b9ee8fc5052f70f1/104x104-Q90_01018f03356eecc3b9ee8fc5052f70f1.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018853/3ee13c012db72a0726cd79a74dc4e584/320x180-Q90_3ee13c012db72a0726cd79a74dc4e584.jpg",
+      "age": "30",
+      "occupation": "Firefighter",
+      "height": "6'2\"",
+      "tattoos": "Yes, under my left arm on my ribs. Tribute to my brothers.",
+      "questions": [
+        {
+          "question": "Would you describe yourself as \"the party-starter,\" \"the wingman\" or \"the laid back one\"? ",
+          "answer": "How cool would it be to travel the world going on adventures and helping people solely funded through pictures you post of living your dream life!"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dean",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/dean-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018838/2fad75f70e71b60cf64ebb899e7b77a5/104x104-Q90_2fad75f70e71b60cf64ebb899e7b77a5.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018838/360b45cf67863b6941d2d6a4155b5ecc/320x180-Q90_360b45cf67863b6941d2d6a4155b5ecc.jpg",
+      "age": "26",
+      "occupation": "Startup Recruiter",
+      "height": "6'2\"",
+      "tattoos": "Mom's initials on chest, artwork on back, friend's initials on back, \"Righteous\" on inner lip, Latin on hip, Triforce on inner arm",
+      "questions": [
+        {
+          "question": "If you were stranded on a dessert island, what would it be made of? ",
+          "answer": "Hot Cheetos and mint chocolate chip ice cream"
+        },
+        {
+          "question": "If you could have lunch with one person, who would it be and why? ",
+          "answer": "My mom. It's been over 10 years since she passed. Lunch would be amazing."
+        },
+        {
+          "question": "If you could go anywhere in the U.S., where would you go and why?",
+          "answer": "Hawaii, I've never been. Also, my mother wanted her ashes scattered there."
+        },
+        {
+          "question": "What is your favorite memory from childhood? ",
+          "answer": "When I was very young, my family lived in a mobile home. I remember sitting on top with my brothers watching a demolition derby and eating Oreos."
+        },
+        {
+          "question": "Ever have trouble in the bedroom? Or been turned on during the wrong time?",
+          "answer": "Whenever a girl tries to bite me I have to stop everything and have a discussion."
+        },
+        {
+          "question": "Do you prefer a woman who wants to be pursued or a woman who pursues you and why? ",
+          "answer": "A woman who demands to be pursued. Nothing good comes easy."
+        },
+        {
+          "question": "What does being married mean to you?",
+          "answer": "I think marriage is an institutionalized sham derived from religious beliefs. That said, when I get married, it's a life-long commitment."
+        }
+      ]
+    }
+  },
+  {
+    "name": "DeMario",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/demario-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018841/64445abcba873913f15e169f16ed3232/104x104-Q90_64445abcba873913f15e169f16ed3232.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018841/edfd949ef21f3f81280e9c85ab171bc2/320x180-Q90_edfd949ef21f3f81280e9c85ab171bc2.jpg",
+      "age": "30",
+      "occupation": "Executive Recruiter",
+      "height": "6'4\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "Would you describe yourself as \"the party-starter,\" \"the wingman\" or \"the laid back one\"? ",
+          "answer": "100% the party starter… always blowing my whistle and making NOISE!!! Let's fire it up, put on some Prince and party like it's 1999!!!!"
+        },
+        {
+          "question": "Do you have any pets and if so, what kind?",
+          "answer": "No pets but when I'm married with children I will own a pet lion and name him, \"Denzel, the lion.\""
+        },
+        {
+          "question": "Do you like being the center of attention, or do you prefer being more mysterious and why?",
+          "answer": "I won't lie, I love attention… not like '07 B. Spears attention or 2011 Sheen. Natural attention like when Justin and Brit wore those incredible denim outfits."
+        },
+        {
+          "question": "If you were stranded on a dessert island, what would it be made of? ",
+          "answer": "Strawberry cheesecake!!!!"
+        },
+        {
+          "question": "Do you have any phobias that would prohibit your participation in certain activities?",
+          "answer": "No, I'm perfect."
+        },
+        {
+          "question": "What is the most romantic present you have ever given and why?",
+          "answer": "Surprise tickets to see Beyoncé and Jay Z, because Bey and Jay = everyone's relationship goals."
+        },
+        {
+          "question": "What is your greatest achievement to date? ",
+          "answer": "Being a GREAT big brother. Since my kid sister was born, I have taken pride in not only loving her but teaching her about life."
+        },
+        {
+          "question": "Who is your favorite actor and why?",
+          "answer": "Denzel Washington because from the time I watched Malcolm X he was incredible. And through the years he has told some incredible stories through film and he is an incredible human, husband, father and mentor."
+        },
+        {
+          "question": "What is your ideal mate's personality like?",
+          "answer": "Outgoing, people person, funny, crazy, calm, cool, loud, funny, geeky but cool like The Fonz"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Diggy",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/diggy-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018826/ab188f9e0dee0159ba98153fae70ef0d/104x104-Q90_ab188f9e0dee0159ba98153fae70ef0d.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018826/630818299522a17d1189020aef877993/320x180-Q90_630818299522a17d1189020aef877993.jpg",
+      "age": "31",
+      "occupation": "Senior Inventory Analyst",
+      "height": "5'11\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "What is a typical Saturday night like for you? ",
+          "answer": "Now, I'm trying to recover from all the day drinking! It can consist of napping to go back out or just recovering."
+        },
+        {
+          "question": "What's the most outrageous thing you have ever done?",
+          "answer": "A trip to Cancun on Spring Break where we had a \"sexual positions\" contest"
+        },
+        {
+          "question": "What's your most embarrassing moment?",
+          "answer": "When I was stranded on a toilet for hours in 5th grade"
+        },
+        {
+          "question": "Do you like being the center of attention or do you prefer being more mysterious and why?",
+          "answer": "I love being the center of attention when I put myself in it."
+        },
+        {
+          "question": "What are your top 3 favorite movies? ",
+          "answer": "Friday, Devil Wears Prada, Pursuit of Happyness"
+        },
+        {
+          "question": "Do you prefer \"hot spot\" type clubs or low key bars, and why?",
+          "answer": "Now, I prefer low key bars! I think as a guy, you have to go through so much red tape to get into hot spots that it's annoying."
+        },
+        {
+          "question": "Meatloaf said he would \"do anything for love, but he won't do that.\" What will you not do?",
+          "answer": "I will not go to jail for anyone!"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Eric",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/eric-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018844/6244018877f35d5613706f831725ff69/104x104-Q90_6244018877f35d5613706f831725ff69.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018844/9aee842061c5bb3c786ca559764afafd/320x180-Q90_9aee842061c5bb3c786ca559764afafd.jpg",
+      "age": "29",
+      "occupation": "Personal Trainer",
+      "height": "6'2\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "Would you describe yourself more as \"the party starter,\" \"the wingman\" or \"the laid back one\"? ",
+          "answer": "I could be all. How about the life of the party!!"
+        },
+        {
+          "question": "If you could be someone else for just one day, who would it be and why?",
+          "answer": "Tony Robbins because he hosts amazing seminars and impacts the masses."
+        },
+        {
+          "question": "If you were stranded on a desert island, what 3 things would you bring with you and why? And what, under any circumstance could you not tolerate on that island?",
+          "answer": "Water, Book of Proverbs, phone. I could not tolerate negative people."
+        },
+        {
+          "question": "Do you consider yourself neat, messy or in between?",
+          "answer": "Neat freak"
+        },
+        {
+          "question": "What are your top 3 favorite movies?",
+          "answer": "Tough question! Blue Chips, Bad Boys and Equalizer"
+        },
+        {
+          "question": "What's your favorite book and why?",
+          "answer": "As a Man Thinketh by James Allen. Simple format for being human and living life."
+        },
+        {
+          "question": "If you could go anywhere in the US, where would you go and why?",
+          "answer": "New Orleans during Mardi Gras week because I've never been."
+        },
+        {
+          "question": "What is your favorite soft drink/juice?",
+          "answer": "Green drink"
+        },
+        {
+          "question": "If you could live in any other time period, what would it be?",
+          "answer": "Before money was involved"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fred",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/fred-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018848/192df44ea41ca6d05806a0654fd9868a/104x104-Q90_192df44ea41ca6d05806a0654fd9868a.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018848/b4450231a4bfe0656e5e18102140ef63/320x180-Q90_b4450231a4bfe0656e5e18102140ef63.jpg",
+      "age": "27",
+      "occupation": "Executive Assistant",
+      "height": "6'",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "Would you describe yourself more as \"the party-starter,\" \"the wingman,\" or \"the laid back one\"?",
+          "answer": "Monday through Thursday I'm the laid back one, but Friday through Sunday I'm the party starter."
+        },
+        {
+          "question": "If you could be someone else for just one day, who would it be and why? ",
+          "answer": "Ellen DeGeneres because she seems to love what she does and people's days are brightened when they are around her."
+        },
+        {
+          "question": "What is your greatest achievement to date?",
+          "answer": "My greatest achievement is attending two graduate school program from two different universities simultaneously and graduating from both in the same weekend."
+        },
+        {
+          "question": "Who is your favorite artist?",
+          "answer": "Jean-Michel Basquiat"
+        },
+        {
+          "question": "Do you like to go out dancing? If yes, what is your preferred type of dancing?",
+          "answer": "Yes, I two-step all night."
+        },
+        {
+          "question": "Describe your perfect hometown date. Where would it be and who would be there?",
+          "answer": "My perfect hometown date would be with my sisters and my mom and we would go to Pappadeaux."
+        },
+        {
+          "question": "Ever have trouble in the bedroom? Or been turned on during the wrong time? We want to hear what happened!",
+          "answer": "We want to hear what happened! Yes, there are times that I get aroused at work and I have to go back to my desk to avoid being noticed."
+        },
+        {
+          "question": "How would you describe yourself as a lover?",
+          "answer": "I would describe myself as an unselfish lover. I wouldn't feel satisfied unless I knew my partner was."
+        },
+        {
+          "question": "What's your biggest date fear?",
+          "answer": "The fear of having my card declined"
+        },
+        {
+          "question": "Meatloaf said he would \"do anything for love, but he won't do that.\" What will you not do? ",
+          "answer": "There isn't anything I wouldn't do."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Grant",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/grant-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018851/031f858e121dae58c2f543b354551e27/104x104-Q90_031f858e121dae58c2f543b354551e27.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018851/2db33643e98e3fe91f0807f176a14d08/320x180-Q90_2db33643e98e3fe91f0807f176a14d08.jpg",
+      "age": "29",
+      "occupation": "Emergency Medicine Physician",
+      "height": "5'11\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "What was your college experience like?",
+          "answer": "It was great! I had a work hard, play hard attitude. I was the social chair of my fraternity and involved in on campus organizations while also getting accepted to medical school a year early."
+        },
+        {
+          "question": "If you could be someone else just for one day, who would it be and why?",
+          "answer": "President of the United States. I like being in charge of making big decisions."
+        },
+        {
+          "question": "What is your most embarrassing moment?",
+          "answer": "I once had a stomach bug in Peru and had to defecate in a cut open 2-liter coke bottle in the back of a tour bus."
+        },
+        {
+          "question": "Do you like being the center of attention or do you prefer being more mysterious and why? ",
+          "answer": "I like being the center of attention while appearing to maintain a humble outlook on it. This allows for others to envy and respect you more."
+        },
+        {
+          "question": "What kind of music do you listen to most often? ",
+          "answer": "Anything I can dance to. \"Ice Ice Baby\" is also one of my favorite songs because I used to sing it at Bar Mitzvahs on stage."
+        },
+        {
+          "question": "What are your favorite magazines?",
+          "answer": ";)"
+        },
+        {
+          "question": "Do you prefer team sports or solo sports? ",
+          "answer": "Probably solo sports because then there is no one to blame for a loss but yourself."
+        },
+        {
+          "question": "What's the most embarrassing style you've rocked?",
+          "answer": "As a joke, I once shaved a brain into my hair. Embarrassing, but yet awesome. It was when I took a neuroanatomy class."
+        },
+        {
+          "question": "Do you follow a specific diet?",
+          "answer": "See food diet. If I see it, I'll eat it."
+        },
+        {
+          "question": "If you could live in any other time period, what would it be?",
+          "answer": "The future. No need to dwell on past issues or time periods."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Iggy",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/iggy-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018854/3f296ff268d09040b0ae677003bf1003/104x104-Q90_3f296ff268d09040b0ae677003bf1003.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018854/9d2888ae9321ef260b1d197927ebd6a6/320x180-Q90_9d2888ae9321ef260b1d197927ebd6a6.jpg",
+      "age": "30",
+      "occupation": "Consulting Firm CEO",
+      "height": "5'11\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "What are your 3 best attributes? ",
+          "answer": "Passionate, loyal, witty"
+        },
+        {
+          "question": "What are your 3 worst attributes?",
+          "answer": "Passionate, loyal, witty"
+        },
+        {
+          "question": "If you could be someone else for just one day, who would it be and why?",
+          "answer": "Usain Bolt. It's got to feel crazy to be that athletic."
+        },
+        {
+          "question": "If you were stranded on a dessert island, what would it be made of?"
+        },
+        {
+          "question": "What are your top 3 favorite movies?",
+          "answer": "Slackers, Friday Night Lights, Grandma's Boy"
+        },
+        {
+          "question": "Who is your favorite actor and why?",
+          "answer": "Tom Hardy – dude is a beast!"
+        },
+        {
+          "question": "What are your favorite magazines?",
+          "answer": "Harvard Business Review"
+        },
+        {
+          "question": "Who is your favorite artist?",
+          "answer": "Dali"
+        },
+        {
+          "question": "What is/are your favorite sports?",
+          "answer": "Football/rugby"
+        },
+        {
+          "question": "Ever have trouble in the bedroom? Or been turned on during the wrong time? We want to hear what happened! ",
+          "answer": "We want to hear what happened! I once got a boner during a board meeting. I had to present sitting down."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jack Stone",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/jack-stone-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018855/8bdad538267d9fa0bedf577cf0cc3959/104x104-Q90_8bdad538267d9fa0bedf577cf0cc3959.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018855/699783bad03d864754309392d47a7238/320x180-Q90_699783bad03d864754309392d47a7238.jpg",
+      "age": "32",
+      "occupation": "Attorney",
+      "height": "5'11\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "Who do you admire most in the world and why?",
+          "answer": "Admired my mom. While battling cancer, she always stayed positive and had a zest for life until the very end."
+        },
+        {
+          "question": "What's the most outrageous thing you have ever done",
+          "answer": "Skydived in the Swiss Alps."
+        },
+        {
+          "question": "What is your favorite flower?",
+          "answer": "Tulips. Basically, roses without thorns. There's a metaphor somewhere there."
+        },
+        {
+          "question": "What kind of music do you listen to most often?",
+          "answer": "House, pop, hip hop, alt. Pretty much anything except metal."
+        },
+        {
+          "question": "What's your favorite book?",
+          "answer": "Catch-22 because of the narrative style and use of real historical events. I'm also interested in WWII history."
+        },
+        {
+          "question": "Who is your favorite author?",
+          "answer": "John Grisham"
+        },
+        {
+          "question": "What do you like to do in your hometown?",
+          "answer": "Work out, take my dog on walks, try new restaurants and foods."
+        },
+        {
+          "question": "What is the best date you have ever been on in your hometown, and why?",
+          "answer": "The 48-hour date, where we just didn't want to leave each other. It was very easy to be with each other."
+        },
+        {
+          "question": "What's the wildest thing you've done in the bedroom?",
+          "answer": "Plead the fifth"
+        },
+        {
+          "question": "Do you prefer a woman who wants to be pursued or a woman who pursues you, and why?",
+          "answer": "Wants to be pursued. She knows how to play the game."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jamey",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/jamey-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018832/3457859639e61c6d44a00ee382f1cba0/104x104-Q90_3457859639e61c6d44a00ee382f1cba0.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018832/e7d7bcde57f7645a3889dbf213f6193b/320x180-Q90_e7d7bcde57f7645a3889dbf213f6193b.jpg",
+      "age": "32",
+      "occupation": "Sales Account Executive",
+      "height": "5'9\"",
+      "tattoos": "One on my left shoulder that's currently being removed.",
+      "questions": [
+        {
+          "question": "Who do you admire most in the world and why?",
+          "answer": "Elon Musk – different thinker, innovator"
+        },
+        {
+          "question": "If you could be someone else for just one day, who would it be and why?",
+          "answer": "Someone less fortunate, so I appreciate my life more."
+        },
+        {
+          "question": "If you were stranded on a desert island, what would it be made of?",
+          "answer": "Chocolate and peanut butter"
+        },
+        {
+          "question": "What is your most embarrassing moment?",
+          "answer": "Getting caught masturbating."
+        },
+        {
+          "question": "Where do you see yourself in 5 years?",
+          "answer": "I am trying to not make plans in life."
+        },
+        {
+          "question": "What kind of music do you listen to most often?",
+          "answer": "EDM/Hip-hop"
+        },
+        {
+          "question": "What is your favorite all time book and why?",
+          "answer": "The Power of Your Subconscious Mind. It was a gift."
+        },
+        {
+          "question": "What does your ideal mate look like?",
+          "answer": "A model"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jedidiah",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/jedidiah-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018856/e1f3309f15ea41c8588baafab4e65edf/104x104-Q90_e1f3309f15ea41c8588baafab4e65edf.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018856/463f77d840b8c73c8575a3aacbf196d1/320x180-Q90_463f77d840b8c73c8575a3aacbf196d1.jpg",
+      "age": "35",
+      "occupation": "ER Physician",
+      "tattoos": "5 across back, wolf on left shoulder",
+      "questions": [
+        {
+          "question": "Do you have any pets and if so, what kind?",
+          "answer": "Not currently. All former dogs were over ½ wolf."
+        },
+        {
+          "question": "What is the most outrageous thing you have ever done?",
+          "answer": "Stripped once in high school for a friend's big sister's birthday. Fifty dollars was a lot at the time."
+        },
+        {
+          "question": "What is your greatest achievement to date?",
+          "answer": "Building my parents a 5,000-square-foot log home on 10 acres in Montana."
+        },
+        {
+          "question": "What is your favorite flower?",
+          "answer": "Wildflowers that grow in high altitudes, above tree lines."
+        },
+        {
+          "question": "Do you like to go out dancing? If yes, what is your preferred type of dancing",
+          "answer": "Yes, country or trap/hip hop based on mood."
+        },
+        {
+          "question": "What is the best trip you have ever been on and why?",
+          "answer": "South Africa is incredible. Raw and beautiful; great coffee, tea, wine, fruit, food, beautiful animals and landscapes, amazing people and very real problems like HIV and violence."
+        },
+        {
+          "question": "What is the craziest place you've had sex?",
+          "answer": "Just off the continental divide on a glacier in the mountains."
+        },
+        {
+          "question": "What are your favorite breakfast foods?",
+          "answer": "LOVE scrambled eggs."
+        },
+        {
+          "question": "What makes you the happiest, what makes you mad?",
+          "answer": "Happy: New socks, nice hotel rooms, good pens, in-room coffee. Mad: Wasting any time, when kids get hurt."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jonathan",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/jonathan-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018821/9615cc768d9d97d7324fe0dac1dba45d/104x104-Q90_9615cc768d9d97d7324fe0dac1dba45d.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018821/9b218b2aa8e23ed27c4e236bde3a4383/320x180-Q90_9b218b2aa8e23ed27c4e236bde3a4383.jpg",
+      "age": "31",
+      "occupation": "Tickle Monster",
+      "height": "6'2\"",
+      "tattoos": "Not yet",
+      "questions": [
+        {
+          "question": "Would you describe yourself more as \"the party starter\", \"the wingman\" or \"the laid back one\"? ",
+          "answer": "Wingman historically, but I've been more outgoing with meeting new people and being more of the instigator."
+        },
+        {
+          "question": "What are your 3 best attributes?",
+          "answer": "Easy to get along with, funny, driven!"
+        },
+        {
+          "question": "What is the most outrageous thing you have ever done?",
+          "answer": "Skydiving! Twice"
+        },
+        {
+          "question": "What is your most embarrassing moment?",
+          "answer": "I had a mullet in 4th grade. My sister swears I wanted my hair cut that way. I like to believe that's not true. Haha."
+        },
+        {
+          "question": "Do you consider yourself neat, messy or in between?",
+          "answer": "Organized, but dirty. When you walk into my house it looks neat and in order, but if you took your shoes off you'd realize there is sand all over the floor from the beach."
+        },
+        {
+          "question": "What is your favorite flower?",
+          "answer": "Now, it's a single red rose"
+        },
+        {
+          "question": "Who are your top 3 favorite groups/artists and why?",
+          "answer": "Elvis Presley, Britney Spears, Flo Rida"
+        },
+        {
+          "question": "What's the most romantic present you have ever given? Why?",
+          "answer": "An engagement ring"
+        },
+        {
+          "question": "Tell us about when you lost your virginity – or if you haven't yet, why?",
+          "answer": "With my ex-wife. Pretty uneventful."
+        },
+        {
+          "question": "How would you describe yourself as a lover?",
+          "answer": "I ensure both of us are satisfied. Pretty open to most things. Usually last a long time (in a good way.)"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Josiah",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/josiah-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018822/7869eb9bcc81b2b53351d634ca81d941/104x104-Q90_7869eb9bcc81b2b53351d634ca81d941.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018822/b5f265d97f5209e1da058943577287ad/320x180-Q90_b5f265d97f5209e1da058943577287ad.jpg",
+      "age": "28",
+      "occupation": "Prosecuting Attorney",
+      "height": "6'3\"",
+      "tattoos": "One on my chest of a bible scripture",
+      "questions": [
+        {
+          "question": "What is a typical Saturday night like for you?",
+          "answer": "Going out to a cigar bar then heading down to South Beach with a group of friends"
+        },
+        {
+          "question": "What are your 3 best attributes?",
+          "answer": "Height, smile, hair – (physical), personality, public speaking"
+        },
+        {
+          "question": "Who do you admire most in the world and why?",
+          "answer": "My father. He spent his entire life taking care of at-risk youth. After his first-born son committed suicide, he remained a strong head of the household."
+        },
+        {
+          "question": "What are your favorite activities to do with a group?",
+          "answer": "Jet skiing, gun range shooting, playing football"
+        },
+        {
+          "question": "Do you like being the center of attention, or do you prefer being more mysterious and why? ",
+          "answer": "Center of attention. I'm a natural born leader and people draw towards me."
+        },
+        {
+          "question": "Do you like to go out dancing? If yes, what is your preferred type of dancing?",
+          "answer": "No, I can't dance at all."
+        },
+        {
+          "question": "Where is the craziest place you've had sex?",
+          "answer": "In my office at work!"
+        },
+        {
+          "question": "What's your worst date memory?",
+          "answer": "Being catfished! A girl arrived on the date pregnant!!"
+        },
+        {
+          "question": "What is your favorite thing to do with your mom?",
+          "answer": "Long phone calls"
+        },
+        {
+          "question": "If you could do/have any job in the world, what would it be and why?",
+          "answer": "Head state prosecutor in my community to affect real change. I would help those that have made mistakes."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kenny",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/kenny-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018830/3009608bfc4f21b09897dff339c388a1/104x104-Q90_3009608bfc4f21b09897dff339c388a1.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018830/c2a59ca6d7f3d2909921189dd6bbaa59/320x180-Q90_c2a59ca6d7f3d2909921189dd6bbaa59.jpg",
+      "age": "35",
+      "occupation": "Professional Wrestler",
+      "height": "6'",
+      "tattoos": "A cross on my right arm, caveman on my chest and Japanese Kanji for \"fearless\" on shoulder.",
+      "questions": [
+        {
+          "question": "What is a typical Saturday night like for you?",
+          "answer": "Either wrestling in my underwear in front of thousands of people or at home with my daughter."
+        },
+        {
+          "question": "If you could have lunch with one person, who would it be and why?",
+          "answer": "The Rock. We are very much alike."
+        },
+        {
+          "question": "Who is your favorite actor and why?",
+          "answer": "Denzel Washington. Power screen presence. Complete emotional control."
+        },
+        {
+          "question": "What is your favorite all-time book and why?",
+          "answer": "The New Jim Crow. It enlightened me to a whole lot."
+        },
+        {
+          "question": "What is the most romantic present you have ever given?",
+          "answer": "Different Edible Arrangements every day for a birthday week."
+        },
+        {
+          "question": "Ever have trouble in the bedroom?",
+          "answer": "We want to hear what happened! There was about two weeks when I first started dating my ex that I was Quick Draw McGraw."
+        },
+        {
+          "question": "Who is the person you love most in this world and why?",
+          "answer": "My daughter. She is literally my reason for living. She makes my life better."
+        },
+        {
+          "question": "If you could live in any other time period, what would it be?",
+          "answer": "Ancient Egypt"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kyle",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/kyle-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018820/45c6d2d67bc7b33b626115dbb7ad51cd/104x104-Q90_45c6d2d67bc7b33b626115dbb7ad51cd.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018820/34530ce89a895e6b815adde5b5896e4e/320x180-Q90_34530ce89a895e6b815adde5b5896e4e.jpg",
+      "age": "26",
+      "occupation": "Marketing Consultant",
+      "height": "5'11\"",
+      "tattoos": "None",
+      "questions": [
+        {
+          "question": "What are your three worst attributes?",
+          "answer": "Don't trust most people (trust is earned, not assumed), general disdain for perceived corrupt authority, I can be very blunt and outspoken, sometimes I don't think before I speak."
+        },
+        {
+          "question": "If you could have lunch with one person, who would it be and why?",
+          "answer": "Donald Glover. I respect him on so many levels as a musician, actor, general creative, activist and businessman. Or Ed Snowden."
+        },
+        {
+          "question": "Gluten?",
+          "answer": "Not really sure what it is or what food it lives in, but I select gluten-free menu options when I can."
+        },
+        {
+          "question": "Who is your favorite actor and why?",
+          "answer": "Will Smith. I wanted to be as cool and smart as him growing up. Still do. Also, he just seems perpetually positive. So much respect for that."
+        },
+        {
+          "question": "Do you prefer \"hot spot\" type clubs or low-key bars and why? ",
+          "answer": "Of these two, hot spot clubs. If I'm going out, I prefer to go all out. Otherwise, having a bunch of people over and firing up the grill is my jam."
+        },
+        {
+          "question": "Do you enjoy camping?",
+          "answer": "Yes! Camping is awesome. I like hiking, fires, pitching tents, fishing… hate bugs though, so bug nets and spray are essential."
+        },
+        {
+          "question": "What's the wildest thing you've done in the bedroom?",
+          "answer": "Ex was into BDSM and introduced me to being a dom. Interesting, but don't like hurting people, so it's weird. Fun with her though."
+        },
+        {
+          "question": "What does your ideal mate look like?",
+          "answer": "7+. Looks matter for the ideal candidate. Any culture or skin tone. Big butt. I'm definitely a butt guy."
+        },
+        {
+          "question": "How would you describe yourself as a lover?",
+          "answer": "Intimate, emotional, fun, supportive. If you mean specifically during sex, \"athletic,\" lol."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lee",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/lee-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018824/232a15f5f1fe46358057bdba5f91d88b/104x104-Q90_232a15f5f1fe46358057bdba5f91d88b.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018824/768b8824f0d1959524af54fbd885b67d/320x180-Q90_768b8824f0d1959524af54fbd885b67d.jpg",
+      "age": "30",
+      "occupation": "Singer/Songwriter",
+      "height": "5'11\"",
+      "tattoos": "Yes! I have a horseshoe on my left arm.",
+      "questions": [
+        {
+          "question": "Who do you admire most in the world and why?",
+          "answer": "My Mamaw! I admire how she adapts to the circumstances she faces enough to progress and successfully thrive. She survived the Depression as a kid, grew and raised an incredible family."
+        },
+        {
+          "question": "If you were stranded on a desert island, what 3 things would you bring with you and why? And what under any circumstances could you not tolerate on that island?",
+          "answer": "A hook, the right girl and a fire source. That'd be all I'd need to survive and could learn how to make booze. Sand gnats!"
+        },
+        {
+          "question": "Who is your favorite actor and why?",
+          "answer": "Matthew McConaughey! He is insanely talented, accomplished and has very strong family values and dedication."
+        },
+        {
+          "question": "What are your top all-time favorite movies? ",
+          "answer": "Gone with the Wind, Inglourious Basterds, and Scarface"
+        },
+        {
+          "question": "Do you prefer more hot spot type clubs or low key bars, and why?",
+          "answer": "I'm more of a \"dive bar\" type person! I don't mind clubs, but I do prefer personal interaction and the ability to do so and a club doesn't always provide."
+        },
+        {
+          "question": "What do you do for fun in the city you live in and why?",
+          "answer": "Music in Music City. I listen and I've played at just about every venue there!"
+        },
+        {
+          "question": "What's the most embarrassing style you've rocked",
+          "answer": "No."
+        },
+        {
+          "question": "Do you consider yourself romantic and why?",
+          "answer": "Absolutely! I'm a \"pleaser\" under wraps! I like to do things to make someone emotional and happy."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lucas",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/lucas-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018825/2bcc1363d666729f67985d80bb957ce4/104x104-Q90_2bcc1363d666729f67985d80bb957ce4.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018825/edc09b16c4bfb15dfd9346586ac5c668/320x180-Q90_edc09b16c4bfb15dfd9346586ac5c668.jpg",
+      "age": "30",
+      "occupation": "Whaboom",
+      "height": "6'",
+      "tattoos": "None",
+      "questions": [
+        {
+          "question": "Do you have any pets and if so, what kind? ",
+          "answer": "Had a dog and cat growing up. Now an ant farm, fish and I'm an uncle to a cat."
+        },
+        {
+          "question": "If you could have lunch with one person, who would it be and why? ",
+          "answer": "Dead: Bruce Jenner, Alive: Caitlyn Jenner …. Would be a very interesting convo."
+        },
+        {
+          "question": "If you were stranded on a desert island, what would it be made of? And what, under any circumstance, could you not tolerate on that island? ",
+          "answer": "1. Waterproof lighter 2. Spear gun 3. Cast of The View. Couldn't tolerate The Situation from Jersey Shore."
+        },
+        {
+          "question": "If you could be any superhero, which one would you be; and why?",
+          "answer": "Superman with Batman's money because it's the best of both worlds."
+        },
+        {
+          "question": "Do you like to go out dancing",
+          "answer": "Love dancing. Tango, Swing, Ballroom, Russian dance, Freestyle …. and good old bump and grind."
+        },
+        {
+          "question": "What is the most embarrassing style you've rocked?",
+          "answer": "Chiquita Banana outfit"
+        },
+        {
+          "question": "What does your ideal mate look like?",
+          "answer": "Belle (Beauty and The Beast), Cinderella, Little Mermaid … and the best, Jessica Rabbit!"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Matt",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/matt-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018828/d097078f3d7af31672e6fbb43a305b79/104x104-Q90_d097078f3d7af31672e6fbb43a305b79.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018828/68deff5d0920598448bbb09f27aca8ff/320x180-Q90_68deff5d0920598448bbb09f27aca8ff.jpg",
+      "age": "32",
+      "occupation": "Construction Sales Rep",
+      "height": "6'3\"",
+      "tattoos": "No",
+      "questions": [
+        {
+          "question": "Who do you admire most in the world and why?",
+          "answer": "My parents for setting the bar when it comes to relationships as far as I'm concerned."
+        },
+        {
+          "question": "If you could be someone else just for one day, who would it be and why?",
+          "answer": "Maybe Matt Lauer so I could help people start their day off on the right foot. He seems like a genuine guy and a class act."
+        },
+        {
+          "question": "What is your greatest achievement to date?",
+          "answer": "Probably the 10 years I have spent as a basketball coach, volunteering and working with inner city kids."
+        },
+        {
+          "question": "If you could watch any movie right now, what would it be, and why?",
+          "answer": "Probably Wedding Crashers. Perfect flick to wind down to."
+        },
+        {
+          "question": "Who are your top 3 favorite groups/artists and why?",
+          "answer": "Justin Timberlake, Train, John Mayer. All three have gone their own route and still stood the test of time."
+        },
+        {
+          "question": "Do you prefer team sports or solo sports, and why? ",
+          "answer": "Team sports. I've always thought they are a good metaphor for life."
+        },
+        {
+          "question": "What is the most romantic present you have ever given? Why?",
+          "answer": "Lingerie. I knew I was in love once I found myself shopping at Victoria Secret."
+        },
+        {
+          "question": "What's the craziest place you had sex?",
+          "answer": "The balcony of a cruise ship."
+        },
+        {
+          "question": "What's your worst date memory?",
+          "answer": "I went on one Tinder date a few years back. Right away I realized why I wasn't the online dating type."
+        },
+        {
+          "question": "If you could have one superpower, what would it be and why?",
+          "answer": "Telepathy because it would make dating so much easier."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Michael",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/michael-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018831/b11fb5fe4801d265ea39fe5e3e6325cc/104x104-Q90_b11fb5fe4801d265ea39fe5e3e6325cc.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018831/9cf0e83a8e0dafb00855fe48aa69741a/320x180-Q90_9cf0e83a8e0dafb00855fe48aa69741a.jpg",
+      "age": "26",
+      "occupation": "Former Professional Basketball Player",
+      "height": "6'",
+      "tattoos": "Right arm. It's a scripture in a scroll saying \"Let us love not in word or speech but in truth and action.\"",
+      "questions": [
+        {
+          "question": "Would you describe yourself more as \"the party starter,\" \"the wingman\" or \"the laid back one?\" ",
+          "answer": "\" Laid back one."
+        },
+        {
+          "question": "What is the most outrageous thing you have ever done?",
+          "answer": "Sign a contract to play professional basketball in Bulgaria."
+        },
+        {
+          "question": "If you could have lunch with one person, who would it be and why? ",
+          "answer": "President Obama, because I want to hear what obstacles, hardship and challenges he had to face to attain the highest position in America."
+        },
+        {
+          "question": "Do you like being the center of attention, or do you prefer being more mysterious and why? ",
+          "answer": "Definitely not the center of attention because there is always a reason why people need attention. I'm confident in who I am as a person."
+        },
+        {
+          "question": "Who is your favorite actor and why?",
+          "answer": "Denzel, because every movie he was in were all classics and for him to act in several different characters is very impressive."
+        },
+        {
+          "question": "What is your favorite television show and why?",
+          "answer": "Martin, because even though I've seen each episode more than 100x each, it never gets old."
+        },
+        {
+          "question": "If you wanted to approach a man/woman you had never met before, how would you go about it?",
+          "answer": "Introduce myself and try to win her over with my charm."
+        },
+        {
+          "question": "What's your biggest date fear?",
+          "answer": "One of my friends hooking up with my date in the past."
+        },
+        {
+          "question": "Do you follow a specific diet?",
+          "answer": "Paleo."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Milton",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/milton-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018834/40884e34723f9dd12410e32db71088fb/104x104-Q90_40884e34723f9dd12410e32db71088fb.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018834/babe23362cd5c0abd19cbd4ab8d23efc/320x180-Q90_babe23362cd5c0abd19cbd4ab8d23efc.jpg",
+      "age": "31",
+      "occupation": "Hotel Recreation Supervisor",
+      "height": "6'5\"",
+      "tattoos": "Yes, inside my bottom lip.",
+      "questions": [
+        {
+          "question": "What is the most outrageous thing you have ever done? ",
+          "answer": "Live four months without power. Cold showers are no joke."
+        },
+        {
+          "question": "What is your greatest achievement to date? ",
+          "answer": "Dominating my basketball league after college. I was Kobe back then."
+        },
+        {
+          "question": "Do you have a serious fear of any kind of animal?",
+          "answer": "Spiders"
+        },
+        {
+          "question": "What do you hope to get out of participating in this television show? ",
+          "answer": "Discovered. Everyone tells me I'm made for TV/movies. Doesn't mean I'm out here hoping for that, but I would like to break into writing or acting."
+        },
+        {
+          "question": "Do you like to go out dancing? If yes, what is your preferred type of dancing? ",
+          "answer": "Salsa. I love spinning the girls."
+        },
+        {
+          "question": "How would you describe yourself as a lover?",
+          "answer": "Good. I like to take care of my lady first."
+        },
+        {
+          "question": "Do you consider yourself a romantic and why?",
+          "answer": "Kinda. I don't mind being romantic, but it can show you're weak."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mohit",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/mohit-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018835/9f610ad4d57fb29aca07ddd23d120590/104x104-Q90_9f610ad4d57fb29aca07ddd23d120590.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018835/0282f1a4899efb93715b8530f6ac636f/320x180-Q90_0282f1a4899efb93715b8530f6ac636f.jpg",
+      "age": "26",
+      "occupation": "Product Manager",
+      "height": "6'",
+      "tattoos": "None, yet.",
+      "questions": [
+        {
+          "question": "If you could have lunch with one person, who would it be?",
+          "answer": "Elon Musk. I'm a fan of his fearlessness."
+        },
+        {
+          "question": "Gluten?",
+          "answer": "I'm going to dress up as that for Halloween."
+        },
+        {
+          "question": "What is your favorite memory from your childhood?",
+          "answer": "Meeting the Power Rangers."
+        },
+        {
+          "question": "What kind of music do you listen to most often?",
+          "answer": "Rap and country. Yes, you read that correctly."
+        },
+        {
+          "question": "Do you prefer \"hot spot\" type clubs or low-key bars, and why?",
+          "answer": "Hot spot clubs because I like to dance."
+        },
+        {
+          "question": "Style-wise, would you say you are satisfied with the way you look, or would you be up for a change? (hair, make-up, clothes)",
+          "answer": "(hair, make-up, clothes) Hair could use some work."
+        },
+        {
+          "question": "What's the wildest thing you've done in the bedroom?",
+          "answer": "One word: Tabasco."
+        },
+        {
+          "question": "What does being married mean to you?",
+          "answer": "A bond for life, being with my best friend and someone I can grow with."
+        },
+        {
+          "question": "How long does it take for you to get ready to go out for a big night on the town",
+          "answer": "An episode of Seinfeld."
+        },
+        {
+          "question": "How important is your family's approval to you when it concerns dating a certain someone?",
+          "answer": "Very important. When you get married, you marry the family as well. And that works both ways."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Peter",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/peter-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018837/b149da24d5fd35f9afc447089b414610/104x104-Q90_b149da24d5fd35f9afc447089b414610.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018837/73c6805fbcf6c0454edfec7c67a1cee7/320x180-Q90_73c6805fbcf6c0454edfec7c67a1cee7.jpg",
+      "age": "31",
+      "occupation": "Business Owner",
+      "height": "6'3\"",
+      "tattoos": "Shoulder – family knot, arm – cross, ribs – Ironman, chest – a buck    Do you have any phobias that would prohibit your participation in certain activities? Heights and deep water. Deep water is less of a problem. I want to cage dive with great whites. Standing on a cliff though… NOPE!    What is the best trip you have ever been on and why? I moved to Athens, Greece for modeling for three months. It was everything! I saw the world, made friends, was forced to grow up and be self-sufficient. Learned a lot!    What is your ideal mate's personality like? Intelligent, kind, hard-working, motherly, mature, sophisticated, driven    What's the closest you have ever come to being married? My ex of two years. I was looking at rings after just three months.    If you could watch any movie right now, what would it be, and why? Saving Private Ryan. The storyline is incredible. It's got excitement, love, sadness, tragedy, happiness, everything.    Tell us a fun story about a one night stand. I woke up naked on the cold floor of a pitch-black room. Thought I had been abducted. Then there was a knock and a woman's voice at the door. \"Are you ok?\" she asked. I asked her to open the door. Turns out it was a girl I had known for a while in the bar scene. I was on the floor of her bathroom where I passed out after going home with her. I was 19 or 20.    What is your greatest achievement to date? Three Ironmans. One on a broken foot.    Who do you admire most in the world and why? My brother. He is intelligent, hard-working and the very best father and husband that I have ever known. He is a rock.    If you could be someone else for just one day, who would it be and why? A professional football player. It is my favorite sport with an awesome paycheck. They're superstars for playing a sport, a game. It just seems so easy.    What is your favorite television show and why? Modern Family. It's hilarious and carefree.",
+      "questions": [
+        {
+          "question": "Tattoos: ",
+          "answer": "Modern Family. It's hilarious and carefree."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rob",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/rob-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018839/aff7b352876a25af7488ba76cc5d17a3/104x104-Q90_aff7b352876a25af7488ba76cc5d17a3.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018839/a87daa5de4df58b6e5e4d4fad255b0ff/320x180-Q90_a87daa5de4df58b6e5e4d4fad255b0ff.jpg",
+      "age": "30",
+      "occupation": "Law Student",
+      "height": "6'2\"",
+      "tattoos": "No. Haven't found something worth committing to for a lifetime (yet!)",
+      "questions": [
+        {
+          "question": "What was your college experience like? ",
+          "answer": "Good! Lots of travel and exchanges. I did half of my university overseas (China, Taiwan, Peru, Spain.)"
+        },
+        {
+          "question": "What are your 3 best attributes? ",
+          "answer": "Driven, empathetic, worldly"
+        },
+        {
+          "question": "If you could have lunch with one person who would it be and why? ",
+          "answer": "Buddha. So I could discuss his philosophies on detachment, suffering and divinity."
+        },
+        {
+          "question": "If you could be any superhero, which one would you be and why?",
+          "answer": "Superman! He's got the coolest superpowers and is also a U.S. alien, like me!"
+        },
+        {
+          "question": "What kind of music do you listen to most often?",
+          "answer": "When I work, chill electronic with no words. When I'm just chilling, acoustic guitar sets."
+        },
+        {
+          "question": "What's the most embarrassing style you've rocker?",
+          "answer": "Blonde highlights and diamond studs. Back in my boy band phase, '90s/early 2000s."
+        },
+        {
+          "question": "Do you prefer a woman who wants to be pursued or a woman who purses you, and why?",
+          "answer": "I prefer a woman who pursues me. It shows that she has the focus and the courage to go for something that she wants despite the cultural expectation that the man do the pursuing."
+        },
+        {
+          "question": "If you could have one superpower, what would it be and why? How would you use it?",
+          "answer": "Control time. It's the single most important thing that we are given and we can never get it back once lost."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Will",
+    "biolink": "http://abc.go.com/shows/the-bachelorette/cast/will-2017",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018842/df25b24205361883c5cec63ac9bbd1e6/104x104-Q90_df25b24205361883c5cec63ac9bbd1e6.jpg",
+    "role": "Contestant",
+    "bio": {
+      "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018842/0b5ec734a6343502be55381b8811d4b0/320x180-Q90_0b5ec734a6343502be55381b8811d4b0.jpg",
+      "age": "28",
+      "occupation": "Sales Manager",
+      "height": "6'3\"",
+      "tattoos": "Cross – back, angel wing – shoulder, phrase – chest, battle cross – ribs.    If you could be someone else for just one day, who would it be and why? Will Smith because he's the Fresh Prince.",
+      "questions": [
+        {
+          "question": "Tattoos: ",
+          "answer": "Will Smith because he's the Fresh Prince."
+        },
+        {
+          "question": "What are your top 3 all-time favorite movies?",
+          "answer": "Shawshank Redemption, Star Wars, Jurassic Park."
+        },
+        {
+          "question": "What is the best trip you have ever been on and why?",
+          "answer": "Dubai. I love experiencing new cultures."
+        },
+        {
+          "question": "Do you consider yourself romantic and why?",
+          "answer": "Yes. When I have someone I feel is worthy they deserve to be treated like a princess."
+        },
+        {
+          "question": "What's your worst date memory?",
+          "answer": "Every Tinder date ever."
+        },
+        {
+          "question": "If you're interested in someone, do you tend to become shy or outgoing?",
+          "answer": "I can be slightly more reserved at first."
+        },
+        {
+          "question": "If you could have one superpower, what would it be and why? How would you use it?",
+          "answer": "Teleportation. I love to travel, but hate the waiting."
+        },
+        {
+          "question": "Meatloaf said he would \"do anything for love, but he won't do that.\" What will you not do?",
+          "answer": "Be someone's second choice."
+        }
+      ]
+    }
+  }
+]

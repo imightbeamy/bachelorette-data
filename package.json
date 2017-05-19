@@ -1,8 +1,8 @@
 {
   "name": "bachelorette-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data about bachelor/bachelorette contestants.",
-  "main": "data.js",
+  "main": "cast.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

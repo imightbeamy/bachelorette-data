@@ -1,5 +1,8 @@
 var Xray = require('x-ray');
 
+var BACHELORETTE_ROOT = 'http://abc.go.com/shows/the-bachelorette/cast'
+var BACHELOR_ROOT = 'http://abc.go.com/shows/the-bachelor/cast'
+
 var x = Xray({
   filters: {
     trim: value =>
@@ -13,7 +16,7 @@ var x = Xray({
   }
 });
 
-x('http://abc.go.com/shows/the-bachelorette/cast', '.tile-content-overlay', [{
+x(BACHELOR_ROOT, '.tile-content-overlay', [{
   name: '.title | trim',
   biolink: '.details-link@href',
   headshot: 'img@src',
@@ -30,4 +33,4 @@ x('http://abc.go.com/shows/the-bachelorette/cast', '.tile-content-overlay', [{
     }])
   }),
 }])
-.write('cast.json')
+.write('data/bachelor/s22/cast.json')
